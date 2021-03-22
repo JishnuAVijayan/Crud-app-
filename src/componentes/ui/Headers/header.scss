@@ -1,0 +1,16 @@
+.NewHeader {
+    padding: 30px 45px;
+    .headerContainer {
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    margin-bottom: 35px;
+   
+    .addUser {
+        margin-right: 50px;
+        margin-left: auto;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
+}
